@@ -140,7 +140,7 @@ nav .fa{
 
 .about-col-1 img{
     width: 100%;
-    border-radius: 15px;
+    border-radius: 50%;
 }
 .about-col-2{
     flex-basis: 60%;
